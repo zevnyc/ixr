@@ -1,0 +1,23 @@
+//////////IFCONFIG SITES\\\\\\\\\\
+ifconfig.co
+ifconfig.io
+ifconfig.me
+/////////////////\\\\\\\\\\\\\\\\\
+##### IFCONFIG.CO #####
+# JSON output (W/O ./json only lists IP)
+https://ifconfig.co/json
+# Testing port connectivity
+https://ifconfig.co/json
+(*** 1 req. p/min.)
+
+##### IFCONFIG.IO #####
+# includes remoteUA etc.
+** NO CITY/LOCATION
+http://ifconfig.io/all.json
+
+
+##### IFCONFIG.ME #####
+** SLOW, NO LOCATION
+# includes remote host,UA etc.
+http://ifconfig.me/all.json
+NO HTTPS, (kinda old)

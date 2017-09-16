@@ -1,1 +1,1 @@
-# kodiStuffs
+# Not for public consumption.
